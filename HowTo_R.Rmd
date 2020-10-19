@@ -1,0 +1,75 @@
+---
+title: |
+  | How to ...
+output:
+  html_document:
+    css: C:/Users/touss/Dropbox/github/R/styles.css
+  pdf_document:
+    toc: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+If you have any trouble, contact me: aurele.toussaint@ut.ee
+
+<h1 align="center" fontsize=19><b> Install R </b></h1>
+
+## **Windows**
+
+Installing R on **Windows 10** is very straightforward. The easiest way is to install it through CRAN.
+Just visit the [CRAN downloads](https://cran.r-project.org) and select *Download R for Windows*
+
+![ ](Picture1.png)
+
+Then click on **install R for the first time**
+
+Then click on **Download R 4.0.3 for Windows**
+
+## **Mac**
+
+For **mac** users, click on **Download R for (Mac) OS X** and **R-4.0.3.pkg**
+
+
+![ ](Picture4.png)
+
+## **Linux**
+
+For **Linux** user, click on **Download R for Linux** and follow the **command lines**
+
+<br><br>
+
+<h1 align="center" fontsize=19><b> Install RStudio </b></h1>
+
+You need to go to [RStudio website](https://rstudio.com) and **download**
+
+![ ](Picture5.png)
+
+
+and then choose the <font size="3"> **FREE** version </font>.
+
+![ ](Picture6.png)
+
+
+Finally, **select** you favorite OS (windows, mac or linux) and follow instructions. 
+
+If everything is working you can open your *RStudio* and see similar than this:
+
+![ ](Picture7.png)
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
